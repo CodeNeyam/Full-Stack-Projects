@@ -42,6 +42,6 @@ This is a collection of full stack projects I have worked on
 
 ## MongoDB Projects
 
-- [Clinic and Hotel Management System](https://github.com/CodeNeyam/MongoDB) - A clinic management system
+- [Clinic and Hotel Management System](https://github.com/CodeNeyam/MongoDB) - A Clinic and a Hotel management system
 
 
