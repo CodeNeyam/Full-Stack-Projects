@@ -38,7 +38,7 @@ This is a collection of full stack projects I have worked on
 ## MySQL Projects
 
 - [Library Management](https://github.com/CodeNeyam/MySQL-Libary-Managment) - A library management system
-- [Record Company]https://github.com/CodeNeyam/MySQL-RecordCompany) - A record company management system
+- [Record Company](https://github.com/CodeNeyam/MySQL-RecordCompany) - A record company management system
 
 ## MongoDB Projects
 
