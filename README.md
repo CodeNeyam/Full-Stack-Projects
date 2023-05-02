@@ -29,7 +29,7 @@ This is a collection of full stack projects I have worked on
 - [Form Inputs](https://github.com/CodeNeyam/LARAVEL-FormInputs) - A package of stocking inputs into database and download it as XLSX
 - [API](https://github.com/CodeNeyam/LARAVEL-api) - A RESTful API built with Laravel
 - [Laragigs](https://github.com/CodeNeyam/LARAVEL-laragigs) - A collection of Laravel packages and helpers
--[Blogs](https://github.com/CodeNeyam/LARAVEL-Blog) - A Blog app for managing blogs with user authentication
+- [Blogs](https://github.com/CodeNeyam/LARAVEL-Blog) - A Blog app for managing blogs with user authentication
 
 ## Node.js Projects
 
